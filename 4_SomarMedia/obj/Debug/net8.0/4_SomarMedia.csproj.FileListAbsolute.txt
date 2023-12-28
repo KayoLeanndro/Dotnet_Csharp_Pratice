@@ -1,0 +1,15 @@
+C:\Users\Kayo\Desktop\klrepository\AllaboutC#\ProjetosPraticos\4_SomarMedia\bin\Debug\net8.0\4_SomarMedia.exe
+C:\Users\Kayo\Desktop\klrepository\AllaboutC#\ProjetosPraticos\4_SomarMedia\bin\Debug\net8.0\4_SomarMedia.deps.json
+C:\Users\Kayo\Desktop\klrepository\AllaboutC#\ProjetosPraticos\4_SomarMedia\bin\Debug\net8.0\4_SomarMedia.runtimeconfig.json
+C:\Users\Kayo\Desktop\klrepository\AllaboutC#\ProjetosPraticos\4_SomarMedia\bin\Debug\net8.0\4_SomarMedia.dll
+C:\Users\Kayo\Desktop\klrepository\AllaboutC#\ProjetosPraticos\4_SomarMedia\bin\Debug\net8.0\4_SomarMedia.pdb
+C:\Users\Kayo\Desktop\klrepository\AllaboutC#\ProjetosPraticos\4_SomarMedia\obj\Debug\net8.0\4_SomarMedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kayo\Desktop\klrepository\AllaboutC#\ProjetosPraticos\4_SomarMedia\obj\Debug\net8.0\4_SomarMedia.AssemblyInfoInputs.cache
+C:\Users\Kayo\Desktop\klrepository\AllaboutC#\ProjetosPraticos\4_SomarMedia\obj\Debug\net8.0\4_SomarMedia.AssemblyInfo.cs
+C:\Users\Kayo\Desktop\klrepository\AllaboutC#\ProjetosPraticos\4_SomarMedia\obj\Debug\net8.0\4_SomarMedia.csproj.CoreCompileInputs.cache
+C:\Users\Kayo\Desktop\klrepository\AllaboutC#\ProjetosPraticos\4_SomarMedia\obj\Debug\net8.0\4_SomarMedia.sourcelink.json
+C:\Users\Kayo\Desktop\klrepository\AllaboutC#\ProjetosPraticos\4_SomarMedia\obj\Debug\net8.0\4_SomarMedia.dll
+C:\Users\Kayo\Desktop\klrepository\AllaboutC#\ProjetosPraticos\4_SomarMedia\obj\Debug\net8.0\refint\4_SomarMedia.dll
+C:\Users\Kayo\Desktop\klrepository\AllaboutC#\ProjetosPraticos\4_SomarMedia\obj\Debug\net8.0\4_SomarMedia.pdb
+C:\Users\Kayo\Desktop\klrepository\AllaboutC#\ProjetosPraticos\4_SomarMedia\obj\Debug\net8.0\4_SomarMedia.genruntimeconfig.cache
+C:\Users\Kayo\Desktop\klrepository\AllaboutC#\ProjetosPraticos\4_SomarMedia\obj\Debug\net8.0\ref\4_SomarMedia.dll
