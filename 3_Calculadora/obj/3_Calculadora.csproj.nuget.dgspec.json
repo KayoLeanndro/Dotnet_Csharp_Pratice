@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kayo\\Desktop\\klrepository\\AllaboutC#\\ProjetosPraticos\\3_Calculadora\\3_Calculadora.csproj": {}
+    "c:\\Users\\Kayo\\Desktop\\klrepository\\AllaboutC#\\ProjetosPraticos\\3_Calculadora\\3_Calculadora.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kayo\\Desktop\\klrepository\\AllaboutC#\\ProjetosPraticos\\3_Calculadora\\3_Calculadora.csproj": {
+    "c:\\Users\\Kayo\\Desktop\\klrepository\\AllaboutC#\\ProjetosPraticos\\3_Calculadora\\3_Calculadora.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kayo\\Desktop\\klrepository\\AllaboutC#\\ProjetosPraticos\\3_Calculadora\\3_Calculadora.csproj",
+        "projectUniqueName": "c:\\Users\\Kayo\\Desktop\\klrepository\\AllaboutC#\\ProjetosPraticos\\3_Calculadora\\3_Calculadora.csproj",
         "projectName": "3_Calculadora",
-        "projectPath": "C:\\Users\\Kayo\\Desktop\\klrepository\\AllaboutC#\\ProjetosPraticos\\3_Calculadora\\3_Calculadora.csproj",
+        "projectPath": "c:\\Users\\Kayo\\Desktop\\klrepository\\AllaboutC#\\ProjetosPraticos\\3_Calculadora\\3_Calculadora.csproj",
         "packagesPath": "C:\\Users\\Kayo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kayo\\Desktop\\klrepository\\AllaboutC#\\ProjetosPraticos\\3_Calculadora\\obj\\",
+        "outputPath": "c:\\Users\\Kayo\\Desktop\\klrepository\\AllaboutC#\\ProjetosPraticos\\3_Calculadora\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kayo\\AppData\\Roaming\\NuGet\\NuGet.Config",

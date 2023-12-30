@@ -39,6 +39,7 @@ namespace SomaMedia
             foreach (decimal valor in listaNumeros)
             {
                 total += valor;
+                Console.Wr
             }
             return total;
         }

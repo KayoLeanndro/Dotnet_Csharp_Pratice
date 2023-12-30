@@ -1,0 +1,15 @@
+C:\Users\Kayo\Desktop\klrepository\AllaboutC#\ProjetosPraticos\5_RodarDados\5_RodarDados\bin\Debug\net8.0\5_RodarDados.exe
+C:\Users\Kayo\Desktop\klrepository\AllaboutC#\ProjetosPraticos\5_RodarDados\5_RodarDados\bin\Debug\net8.0\5_RodarDados.deps.json
+C:\Users\Kayo\Desktop\klrepository\AllaboutC#\ProjetosPraticos\5_RodarDados\5_RodarDados\bin\Debug\net8.0\5_RodarDados.runtimeconfig.json
+C:\Users\Kayo\Desktop\klrepository\AllaboutC#\ProjetosPraticos\5_RodarDados\5_RodarDados\bin\Debug\net8.0\5_RodarDados.dll
+C:\Users\Kayo\Desktop\klrepository\AllaboutC#\ProjetosPraticos\5_RodarDados\5_RodarDados\bin\Debug\net8.0\5_RodarDados.pdb
+C:\Users\Kayo\Desktop\klrepository\AllaboutC#\ProjetosPraticos\5_RodarDados\5_RodarDados\obj\Debug\net8.0\5_RodarDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kayo\Desktop\klrepository\AllaboutC#\ProjetosPraticos\5_RodarDados\5_RodarDados\obj\Debug\net8.0\5_RodarDados.AssemblyInfoInputs.cache
+C:\Users\Kayo\Desktop\klrepository\AllaboutC#\ProjetosPraticos\5_RodarDados\5_RodarDados\obj\Debug\net8.0\5_RodarDados.AssemblyInfo.cs
+C:\Users\Kayo\Desktop\klrepository\AllaboutC#\ProjetosPraticos\5_RodarDados\5_RodarDados\obj\Debug\net8.0\5_RodarDados.csproj.CoreCompileInputs.cache
+C:\Users\Kayo\Desktop\klrepository\AllaboutC#\ProjetosPraticos\5_RodarDados\5_RodarDados\obj\Debug\net8.0\5_RodarDados.sourcelink.json
+C:\Users\Kayo\Desktop\klrepository\AllaboutC#\ProjetosPraticos\5_RodarDados\5_RodarDados\obj\Debug\net8.0\5_RodarDados.dll
+C:\Users\Kayo\Desktop\klrepository\AllaboutC#\ProjetosPraticos\5_RodarDados\5_RodarDados\obj\Debug\net8.0\refint\5_RodarDados.dll
+C:\Users\Kayo\Desktop\klrepository\AllaboutC#\ProjetosPraticos\5_RodarDados\5_RodarDados\obj\Debug\net8.0\5_RodarDados.pdb
+C:\Users\Kayo\Desktop\klrepository\AllaboutC#\ProjetosPraticos\5_RodarDados\5_RodarDados\obj\Debug\net8.0\5_RodarDados.genruntimeconfig.cache
+C:\Users\Kayo\Desktop\klrepository\AllaboutC#\ProjetosPraticos\5_RodarDados\5_RodarDados\obj\Debug\net8.0\ref\5_RodarDados.dll

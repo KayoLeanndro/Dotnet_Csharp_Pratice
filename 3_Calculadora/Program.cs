@@ -19,6 +19,7 @@ while (exibirMenuCalculadora)
     Console.WriteLine("5 - Resto de divisão ");
     Console.WriteLine("6 - Potencia");
     Console.WriteLine("0 - Encerrar");
+    
 
     opcao = Console.ReadLine();
 

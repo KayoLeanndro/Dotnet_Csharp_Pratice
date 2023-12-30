@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("4_SomarMedia")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+95a8819a450982c9c2f33c69b4a214632fcca01c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("4_SomarMedia")]
 [assembly: System.Reflection.AssemblyTitleAttribute("4_SomarMedia")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

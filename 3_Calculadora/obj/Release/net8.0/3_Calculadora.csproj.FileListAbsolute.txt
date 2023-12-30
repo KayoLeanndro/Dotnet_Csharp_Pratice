@@ -1,0 +1,15 @@
+c:\Users\Kayo\Desktop\klrepository\AllaboutC#\ProjetosPraticos\3_Calculadora\bin\Release\net8.0\3_Calculadora.exe
+c:\Users\Kayo\Desktop\klrepository\AllaboutC#\ProjetosPraticos\3_Calculadora\bin\Release\net8.0\3_Calculadora.deps.json
+c:\Users\Kayo\Desktop\klrepository\AllaboutC#\ProjetosPraticos\3_Calculadora\bin\Release\net8.0\3_Calculadora.runtimeconfig.json
+c:\Users\Kayo\Desktop\klrepository\AllaboutC#\ProjetosPraticos\3_Calculadora\bin\Release\net8.0\3_Calculadora.dll
+c:\Users\Kayo\Desktop\klrepository\AllaboutC#\ProjetosPraticos\3_Calculadora\bin\Release\net8.0\3_Calculadora.pdb
+c:\Users\Kayo\Desktop\klrepository\AllaboutC#\ProjetosPraticos\3_Calculadora\obj\Release\net8.0\3_Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Kayo\Desktop\klrepository\AllaboutC#\ProjetosPraticos\3_Calculadora\obj\Release\net8.0\3_Calculadora.AssemblyInfoInputs.cache
+c:\Users\Kayo\Desktop\klrepository\AllaboutC#\ProjetosPraticos\3_Calculadora\obj\Release\net8.0\3_Calculadora.AssemblyInfo.cs
+c:\Users\Kayo\Desktop\klrepository\AllaboutC#\ProjetosPraticos\3_Calculadora\obj\Release\net8.0\3_Calculadora.csproj.CoreCompileInputs.cache
+c:\Users\Kayo\Desktop\klrepository\AllaboutC#\ProjetosPraticos\3_Calculadora\obj\Release\net8.0\3_Calculadora.sourcelink.json
+c:\Users\Kayo\Desktop\klrepository\AllaboutC#\ProjetosPraticos\3_Calculadora\obj\Release\net8.0\3_Calculadora.dll
+c:\Users\Kayo\Desktop\klrepository\AllaboutC#\ProjetosPraticos\3_Calculadora\obj\Release\net8.0\refint\3_Calculadora.dll
+c:\Users\Kayo\Desktop\klrepository\AllaboutC#\ProjetosPraticos\3_Calculadora\obj\Release\net8.0\3_Calculadora.pdb
+c:\Users\Kayo\Desktop\klrepository\AllaboutC#\ProjetosPraticos\3_Calculadora\obj\Release\net8.0\3_Calculadora.genruntimeconfig.cache
+c:\Users\Kayo\Desktop\klrepository\AllaboutC#\ProjetosPraticos\3_Calculadora\obj\Release\net8.0\ref\3_Calculadora.dll
