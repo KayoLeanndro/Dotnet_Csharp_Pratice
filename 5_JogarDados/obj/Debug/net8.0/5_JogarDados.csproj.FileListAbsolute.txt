@@ -1,0 +1,15 @@
+C:\Users\Kayo\Desktop\klrepository\AllaboutC#\ProjetosPraticos\5_JogarDados\bin\Debug\net8.0\5_JogarDados.exe
+C:\Users\Kayo\Desktop\klrepository\AllaboutC#\ProjetosPraticos\5_JogarDados\bin\Debug\net8.0\5_JogarDados.deps.json
+C:\Users\Kayo\Desktop\klrepository\AllaboutC#\ProjetosPraticos\5_JogarDados\bin\Debug\net8.0\5_JogarDados.runtimeconfig.json
+C:\Users\Kayo\Desktop\klrepository\AllaboutC#\ProjetosPraticos\5_JogarDados\bin\Debug\net8.0\5_JogarDados.dll
+C:\Users\Kayo\Desktop\klrepository\AllaboutC#\ProjetosPraticos\5_JogarDados\bin\Debug\net8.0\5_JogarDados.pdb
+C:\Users\Kayo\Desktop\klrepository\AllaboutC#\ProjetosPraticos\5_JogarDados\obj\Debug\net8.0\5_JogarDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kayo\Desktop\klrepository\AllaboutC#\ProjetosPraticos\5_JogarDados\obj\Debug\net8.0\5_JogarDados.AssemblyInfoInputs.cache
+C:\Users\Kayo\Desktop\klrepository\AllaboutC#\ProjetosPraticos\5_JogarDados\obj\Debug\net8.0\5_JogarDados.AssemblyInfo.cs
+C:\Users\Kayo\Desktop\klrepository\AllaboutC#\ProjetosPraticos\5_JogarDados\obj\Debug\net8.0\5_JogarDados.csproj.CoreCompileInputs.cache
+C:\Users\Kayo\Desktop\klrepository\AllaboutC#\ProjetosPraticos\5_JogarDados\obj\Debug\net8.0\5_JogarDados.sourcelink.json
+C:\Users\Kayo\Desktop\klrepository\AllaboutC#\ProjetosPraticos\5_JogarDados\obj\Debug\net8.0\5_JogarDados.dll
+C:\Users\Kayo\Desktop\klrepository\AllaboutC#\ProjetosPraticos\5_JogarDados\obj\Debug\net8.0\refint\5_JogarDados.dll
+C:\Users\Kayo\Desktop\klrepository\AllaboutC#\ProjetosPraticos\5_JogarDados\obj\Debug\net8.0\5_JogarDados.pdb
+C:\Users\Kayo\Desktop\klrepository\AllaboutC#\ProjetosPraticos\5_JogarDados\obj\Debug\net8.0\5_JogarDados.genruntimeconfig.cache
+C:\Users\Kayo\Desktop\klrepository\AllaboutC#\ProjetosPraticos\5_JogarDados\obj\Debug\net8.0\ref\5_JogarDados.dll
